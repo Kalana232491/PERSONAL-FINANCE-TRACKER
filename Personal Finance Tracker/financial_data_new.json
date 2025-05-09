@@ -1,0 +1,108 @@
+{
+ "SALARIES": [
+  {
+   "Date": "2024-04-15",
+   "Transaction_type": "INCOME",
+   "Description": "HUSBAND SALARY",
+   "Amount": 15000.0
+  },
+  {
+   "Date": "2024-04-15",
+   "Transaction_type": "INCOME",
+   "Description": "HUSBAND SALARY",
+   "Amount": 20000.0
+  },
+  {
+   "Date": "2024-04-16",
+   "Transaction_type": "INCOME",
+   "Description": "WIFE SALARY",
+   "Amount": 10000.0
+  },
+  {
+   "Date": "2024-04-29",
+   "Transaction_type": "INCOME",
+   "Description": "WIFE SALARY",
+   "Amount": 10000.0
+  }
+ ],
+ "BILLS": [
+  {
+   "Date": "2024-04-15",
+   "Transaction_type": "EXPENSE",
+   "Description": "ELECTRICITY BILL",
+   "Amount": 2000.0
+  },
+  {
+   "Date": "2024-04-15",
+   "Transaction_type": "EXPENSE",
+   "Description": "ELECTRICITY BILL",
+   "Amount": 2000.0
+  },
+  {
+   "Date": "2024-04-15",
+   "Transaction_type": "EXPENSE",
+   "Description": "ELECTRICITY BILL",
+   "Amount": 2000.0
+  },
+  {
+   "Date": "2024-04-19",
+   "Transaction_type": "EXPENSE",
+   "Description": "WATER BILL",
+   "Amount": 2000.0
+  },
+  {
+   "Date": "2024-04-21",
+   "Transaction_type": "EXPENSE",
+   "Description": "PHONE BILL",
+   "Amount": 4000.0
+  },
+  {
+   "Date": "2024-04-21",
+   "Transaction_type": "EXPENSE",
+   "Description": "PHONE BILL",
+   "Amount": 5000.0
+  }
+ ],
+ "PETROL": [
+  {
+   "Date": "2024-04-19",
+   "Transaction_type": "EXPENSE",
+   "Description": "CAR PETROL",
+   "Amount": 2500.0
+  },
+  {
+   "Date": "2024-04-19",
+   "Transaction_type": "EXPENSE",
+   "Description": "CAR PETROL",
+   "Amount": 3000.0
+  }
+ ],
+ "FOODS": [
+  {
+   "Date": "2024-04-20",
+   "Transaction_type": "EXPENSE",
+   "Description": "VEGETABLE",
+   "Amount": 2500.0
+  },
+  {
+   "Date": "2024-04-20",
+   "Transaction_type": "EXPENSE",
+   "Description": "VEGETABLE",
+   "Amount": 2000.0
+  }
+ ],
+ "REPAIRS": [
+  {
+   "Date": "2024-04-24",
+   "Transaction_type": "EXPENSE",
+   "Description": "HOME REPAIR",
+   "Amount": 2500.0
+  },
+  {
+   "Date": "2024-04-25",
+   "Transaction_type": "EXPENSE",
+   "Description": "BIKE REPAIR",
+   "Amount": 1500.0
+  }
+ ]
+}
